@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b836ace6-a86d-4454-974b-96d570645555" name="Default Changelist" comment="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом">
+    <list default="true" id="b836ace6-a86d-4454-974b-96d570645555" name="Default Changelist" comment="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом(поправил выход за предел массива)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Theme5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Theme5/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638222270668</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом(поправил выход за предел массива)">
+      <created>1638222749250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638222749250</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -188,7 +196,8 @@
     <MESSAGE value="Все работает cо сложностью O(n)" />
     <MESSAGE value="Все работает cо сложностью O(n) + условие с -1" />
     <MESSAGE value="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом" />
-    <option name="LAST_COMMIT_MESSAGE" value="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом" />
+    <MESSAGE value="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом(поправил выход за предел массива)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Все работает cо сложностью O(n) + условие с -1 + с неупорядоченным массивом(поправил выход за предел массива)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
