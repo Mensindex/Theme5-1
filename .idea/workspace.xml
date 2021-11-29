@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b836ace6-a86d-4454-974b-96d570645555" name="Default Changelist" comment="Все работает cо сложностью O(n)">
+    <list default="true" id="b836ace6-a86d-4454-974b-96d570645555" name="Default Changelist" comment="Все работает cо сложностью O(n) + условие с -1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Theme5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Theme5/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638021901053</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Все работает cо сложностью O(n) + условие с -1">
+      <created>1638026979287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638026979287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -172,7 +180,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Все работает" />
     <MESSAGE value="Все работает cо сложностью O(n)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Все работает cо сложностью O(n)" />
+    <MESSAGE value="Все работает cо сложностью O(n) + условие с -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Все работает cо сложностью O(n) + условие с -1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
